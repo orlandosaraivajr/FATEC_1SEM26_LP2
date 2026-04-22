@@ -1,0 +1,6 @@
+Faker==37.11.0
+greenlet==3.2.4
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.43
+typing_extensions==4.15.0
+tzdata==2025.2
